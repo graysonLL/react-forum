@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Helvetica Neue", sans-serif;
+}
+.ssy {
+  color: #ffd20e;
+}
+
+.sas {
+  background-color: #4169e1;
+  color: black;
+  font-weight: bold;
+}
+
+.soe {
+  background-color: #ffd20e;
+  color: black;
+  font-weight: bold;
+}
+
+.sbe {
+  background-color: #015a00;
+  color: black;
+  font-weight: bold;
+}
+
+.safad {
+  background-color: #900c3f;
+  color: black;
+  font-weight: bold;
+}
+
+.soed {
+  background-color: #83c8e4;
+  color: black;
+  font-weight: bold;
+}
+
+.slg {
+  background-color: #83c8e4;
+  color: black;
+  font-weight: bold;
+}
+
+.shp {
+  background-color: #360369;
+  color: black;
+  font-weight: bold;
+}
+
+.trst {
+  background-color: #e4ab00;
+  color: black;
+  font-weight: bold;
+}
+
+.slg {
+  background-color: #979ba8;
+  color: black;
+  font-weight: bold;
+}
+
+.uscbrand {
+  
+  background: linear-gradient(to right, #fb1508, #2faee2, #13ac4c);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.ddnav ul li {
+  margin-bottom: 0.5rem;
+}
+
+/* Define a badge with a color-changing animation */
+.badge-color-changing {
+  animation: changeColor 1s linear infinite; /* Apply a color-changing animation */
+}
+
+/* Define the color-changing animation */
+@keyframes changeColor {
+  0% {
+    background-color: #fcbf49; /* Initial background color */
+  }
+  25% {
+    background-color: #e82754; /* Color at 25% of the animation */
+  }
+  50% {
+    background-color: #41ead4; /* Color at 50% of the animation */
+  }
+  75% {
+    background-color: #ff5e78; /* Color at 75% of the animation */
+  }
+  100% {
+    background-color: #fcbf49; /* Final background color */
+  }
+}
+
+/* Define a badge with a color-changing animation */
+.color-changing {
+  animation: changeColor 1s linear infinite; /* Apply a color-changing animation */
+}
+
+/* Define the color-changing animation */
+@keyframes changeColor {
+  0% {
+    color: #fcbf49; /* Initial background color */
+  }
+  25% {
+    color: #e82754; /* Color at 25% of the animation */
+  }
+  50% {
+    color: #41ead4; /* Color at 50% of the animation */
+  }
+  75% {
+    color: #ff5e78; /* Color at 75% of the animation */
+  }
+  100% {
+    color: #fcbf49; /* Final background color */
+  }
+}
