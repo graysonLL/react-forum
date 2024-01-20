@@ -9,12 +9,6 @@
 - add friends only post
 
 
-------------------------------------------------------------------------------------------------------------
-
-- [DONE]Add order tracking page for user
-- [DONE]Add orders page for admin
-- [DONE]CHANGE ADMIN PANEL ON PC VIEW FIX WIDTH OF ADMIN PANEL
-- [DONE]CHECKOUT PAGE
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -28,5 +22,10 @@ TO DO
 - [DONE]Add profile page able to add bio, and change profile picture
 - [DONE]Include picture of user on post
 - [DONE]Add store/shop
+- [DONE]Add order tracking page for user
+- [DONE]Add orders page for admin
+- [DONE]CHANGE ADMIN PANEL ON PC VIEW FIX WIDTH OF ADMIN PANEL
+- [DONE]CHECKOUT PAGE
+
 
  
