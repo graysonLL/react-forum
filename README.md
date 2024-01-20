@@ -1,5 +1,5 @@
 # Ongoing Project Facebook like approach but for specific university only
-
+website url = https://thecarolinianconnection.com/  
 # IMPORTANT TO DO
 - use prisma orm in server.js
 
